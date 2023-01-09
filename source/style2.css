@@ -64,3 +64,19 @@ cursor:pointer;
 .box input[type="submit"]:hover{
     background: #ffc400ec;
 }
+
+
+
+.danish {
+    color: antiquewhite;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.da {
+    color: antiquewhite;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
