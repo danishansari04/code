@@ -3,7 +3,7 @@ function validate()
 var username=document.getElementById("username").value;
 var password=document.getElementById("password").value;
 
-if(username=="danishansari"&& password=="VGXViySbxuV")
+if(username=="danishansari"&& password=="786123")
 {
     alert("login succesfully");
     
