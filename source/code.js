@@ -6,7 +6,6 @@ var password=document.getElementById("password").value;
 if(username=="danishansari"&& password=="234234")
 {
 
-  alert("login Successfully");
     // Get the text field
     var copyText = document.getElementById("myInput");
   
